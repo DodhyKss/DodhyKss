@@ -7,6 +7,7 @@
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
+![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)
 ![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat&logo=laravel)
 ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
 
