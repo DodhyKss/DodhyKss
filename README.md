@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Dodhy Kurniawan. Ss
 
 🌱 I’m currently learning Laravel and Next.js  
-💼 I'm a Web Developer  
+💼 I'm a Junior Web Developer  
 📫 Reach me: dodhykurniawan22@gmail.com(mailto:dodhykurniawan22@gmail.com)
 
 ## 🔧 Technologies & Tools
