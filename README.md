@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Laravel and Next.js  
 💼 I'm a Junior Web Developer  
-📫 Reach me: dodhykurniawan22@gmail.com(mailto:dodhykurniawan22@gmail.com)
+📫 Reach me: dodhykurniawan22@gmail.com
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
@@ -10,7 +10,13 @@
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)
 ![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat&logo=laravel)
-![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
+
+![REST API](https://img.shields.io/badge/-REST%20API-333?style=flat&logo=api)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![jQuery](https://img.shields.io/badge/-jQuery-333?style=flat&logo=jquery)
+
 
 ## 📈 GitHub Stats
 ![Dodhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DodhyKss&show_icons=true&theme=radical)
