@@ -1,21 +1,42 @@
-# Hi there 👋, I'm Dodhy Kurniawan. Ss
+<h1 align="center">Hi 👋, I'm Dodhy Kurniawan</h1>
+<h3 align="center">💻 Junior Web Developer from Indonesia</h3>
 
-💼 I'm a Junior Web Developer  
-📫 Reach me: dodhykurniawan22@gmail.com
+---
 
-## 🔧 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
-![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go)
-![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)
-![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat&logo=laravel)
+### 🚀 About Me
+- 💼 Junior Web Developer  
+- 🌱 Currently learning **Next.js & Modern Web Development**  
+- 🔧 Fokus di **Laravel, React, IoT (ESP32)**  
+- 📫 Reach me: **dodhykurniawan22@gmail.com**
 
-![REST API](https://img.shields.io/badge/-REST%20API-333?style=flat&logo=api)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![jQuery](https://img.shields.io/badge/-jQuery-333?style=flat&logo=jquery)
+---
 
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,php,go,laravel,jquery,arduino,mysql,postgres,git" />
+</p>
 
-## 📈 GitHub Stats
-![Dodhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DodhyKss&show_icons=true&theme=radical)
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DodhyKss&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=DodhyKss&theme=radical" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 🏥 Sistem Informasi Klinik (Laravel + PostgreSQL)
+- 🤖 Smart Security ESP32 + Telegram
+- 📊 Dashboard Keuangan Desa
+
+---
+
+### 🤝 Connect with me
+<p align="center">
+  <a href="mailto:dodhykurniawan22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Dodhy-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
