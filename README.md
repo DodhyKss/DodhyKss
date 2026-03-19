@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 💼 Junior Web Developer  
+- 💼 Junior Fullstack Web Developer  
 - 🌱 Currently learning **Next.js & Modern Web Development**  
 - 🔧 Fokus di **Laravel, React, IoT (ESP32)**  
 - 📫 Reach me: **dodhykurniawan22@gmail.com**
@@ -13,15 +13,13 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,go,laravel,jquery,arduino,mysql,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=js,php,go,laravel,react,tailwind,bootstrap,jquery,arduino,mysql,postgres,git" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DodhyKss&show_icons=true&theme=radical" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=DodhyKss&theme=radical" />
 </p>
 
