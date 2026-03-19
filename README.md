@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Dodhy Kurniawan</h1>
-<h3 align="center">💻 Junior Web Developer from Indonesia</h3>
+<h3 align="center">💻 Junior Fullstack Web Developer from Indonesia</h3>
 
 ---
 
 ### 🚀 About Me
 - 💼 Junior Fullstack Web Developer  
-- 🌱 Currently learning **Next.js & Modern Web Development**  
-- 🔧 Fokus di **Laravel, React, IoT (ESP32)**  
+- 🌱 Currently learning **Modern Web Development**  
+- 🔧 Fokus di **Fullstack Web Developer**  
 - 📫 Reach me: **dodhykurniawan22@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,go,laravel,react,tailwind,bootstrap,jquery,arduino,mysql,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=js,php,go,laravel,tailwind,bootstrap,jquery,arduino,mysql,postgres,git" />
 </p>
 
 ---
@@ -26,9 +26,10 @@
 ---
 
 ### 🚀 Featured Projects
-- 🏥 Sistem Informasi Klinik (Laravel + PostgreSQL)
-- 🤖 Smart Security ESP32 + Telegram
-- 📊 Dashboard Keuangan Desa
+- 🏥 Sistem Informasi Klinik (Laravel + PostgreSQL + Go)
+- 🤖 Sistem Informasi Rumah Sakit (Laravel + Go + PostgreSQL)
+- 📊 Sistem Apotek (Next.Js + PostgreSQL)
+- 🏥 Sistem Monitoring Kecepatan Angin (Laravel + ESP32 + Arduino + Mysql)
 
 ---
 
