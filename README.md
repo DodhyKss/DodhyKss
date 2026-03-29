@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,go,laravel,tailwind,bootstrap,jquery,arduino,mysql,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=js,php,go,laravel,nextjs,tailwind,bootstrap,jquery,arduino,mysql,postgres,git" />
 </p>
 
 ---
