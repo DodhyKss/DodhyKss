@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dodhy Kurniawan</h1>
-<h3 align="center">💻 Junior Fullstack Web Developer from Indonesia</h3>
+<h3 align="center">💻 Junior Fullstack Web Developer</h3>
 
 ---
 
