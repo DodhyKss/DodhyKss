@@ -26,10 +26,9 @@
 ---
 
 ### 🚀 Featured Projects
-- 🏥 Sistem Informasi Klinik (Laravel + PostgreSQL + Go)
-- 🏥 Sistem Informasi Rumah Sakit (Laravel + Go + PostgreSQL)
-- 📊 Sistem Apotek (Next.Js + PostgreSQL)
-- 🤖 Sistem Monitoring Kecepatan Angin (Laravel + ESP32 + Arduino + Mysql)
+- 🏥 Sistem Informasi Klinik/RS (Aero + PostgreSQL + Webman)
+- 📊 Sistem Apotek (Next.Js + Mysql)
+- 🤖 SmartWindApp (Laravel + ESP32 + Arduino + Mysql)
 
 ---
 
