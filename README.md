@@ -27,7 +27,7 @@ const dodhy = {
   role    : "Junior Fullstack Web Developer",
   location: "Indonesia 🇮🇩",
   focus   : ["Fullstack Web Dev", "IoT Integration", "Clean Architecture"],
-  learning: ["Modern Web Development", "Go", "PostgreSQL"],
+  learning: ["Modern Web Development"],
   contact : "dodhykurniawan22@gmail.com",
   funFact : "I connect ESP32 sensors to the web — bridging hardware & software! 🤖"
 };
@@ -45,11 +45,9 @@ const dodhy = {
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Backend & Framework
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
