@@ -12,7 +12,7 @@
 
 <!-- BADGES -->
 [![Gmail](https://img.shields.io/badge/Gmail-dodhykurniawan22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dodhykurniawan22@gmail.com)
-[![Linkedin](https://img.shields.io/badge/GitHub-DodhyKss-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/DodhyKss](https://www.linkedin.com/in/dodhy-kurniawan-ss-1bb1a91bb/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dodhy%20Kurniawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dodhy-kurniawan-ss-1bb1a91bb/)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-48BB78?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
