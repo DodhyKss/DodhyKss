@@ -19,7 +19,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```js
 const dodhy = {
@@ -35,7 +35,7 @@ const dodhy = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -69,7 +69,7 @@ const dodhy = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -82,7 +82,7 @@ const dodhy = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
