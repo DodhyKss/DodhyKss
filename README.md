@@ -110,32 +110,6 @@ const dodhy = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=DodhyKss&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DodhyKss/DodhyKss/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DodhyKss/DodhyKss/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DodhyKss/DodhyKss/output/github-snake.svg" />
-</picture>
-
-> ⚠️ **Note:** The snake animation requires a GitHub Action to generate. See setup instructions below.
-
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
