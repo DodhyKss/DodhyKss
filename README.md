@@ -76,7 +76,7 @@ const dodhy = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DodhyKss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=63b3ed&icon_color=48bb78&text_color=a0aec0" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DodhyKss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=63b3ed&text_color=a0aec0" />
 
-<!-- <img width="70%" src="https://streak-stats.demolab.com?user=DodhyKss&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=63b3ed&ring=9f7aea&fire=f687b3&currStreakLabel=63b3ed" /> -->
+<img width="70%" src="https://streak-stats.demolab.com?user=DodhyKss&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=63b3ed&ring=9f7aea&fire=f687b3&currStreakLabel=63b3ed" /> 
 
 </div>
 
