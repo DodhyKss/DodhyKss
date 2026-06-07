@@ -82,24 +82,6 @@ const dodhy = {
 
 ---
 
-## 🚀 Projects
-
-### 🔒 Private Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🏥 **Clinic & Hospital Info System** | Full-featured clinic management with patient records, scheduling & reporting | `Aero` `PostgreSQL` `Webman` |
-
-### 🌐 Public Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🚀 **Aero Framework** | Custom PHP framework built for modern, performant web applications | `PHP` |
-| 📊 **Pharmacy System** | Complete pharmacy management with inventory, prescriptions & sales reports | `Next.js` `MySQL` |
-| 🤖 **SmartWindApp** | IoT wind monitoring — ESP32 sensors feeding a real-time web dashboard | `Laravel` `ESP32` `Arduino` `MySQL` |
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
