@@ -92,16 +92,6 @@ const dodhy = {
 
 ---
 
-## 📫 Connect with Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Email-dodhykurniawan22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dodhykurniawan22@gmail.com)
-
-</div>
-
----
-
 <div align="center">
 
 <!-- FOOTER WAVE -->
