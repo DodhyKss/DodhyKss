@@ -97,44 +97,8 @@ const dodhy = {
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-<sub>Made with ❤️ & ☕ by <strong>@DodhyKss</strong> — currently learning · always building · never stopping</sub>
+<sub>Made with ☕ by <strong>@DodhyKss</strong> — currently learning · always building · never stopping</sub>
 
 </div>
 
 ---
-
-<details>
-<summary>⚙️ <strong>Setup: Snake Animation GitHub Action</strong></summary>
-
-Buat file `.github/workflows/snake.yml` di repo profil kamu:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
