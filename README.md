@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dodhy%20Kurniawan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20|%20DevOps%20Engineer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dodhy%20Kurniawan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20|%20DevOps%20Enthusiast&descAlignY=55&descSize=18" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=63B3ED&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Building+modern+web+experiences+%F0%9F%9A%80;From+backend+APIs+to+polished+UIs+%F0%9F%8E%A8;IoT+%2B+Web+%3D+%E2%9D%A4%EF%B8%8F+SmartWindApp" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=63B3ED&center=true&vCenter=true&multiline=true&width=560&height=60&lines=Building+modern+web+experiences+%F0%9F%9A%80;Deploying+%26+automating+with+Docker+%F0%9F%90%B3;From+backend+APIs+to+production+VPS+%E2%9A%99%EF%B8%8F;IoT+%2B+Web+%3D+%E2%9D%A4%EF%B8%8F+SmartWindApp" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,13 +23,14 @@
 
 ```js
 const dodhy = {
-  name    : "Dodhy Kurniawan",
-  role    : "Junior Fullstack Web Developer",
-  location: "Indonesia 🇮🇩",
-  focus   : ["Fullstack Web Dev", "IoT Integration", "Clean Architecture"],
-  learning: ["Modern Web Development"],
-  contact : "dodhykurniawan22@gmail.com",
-  funFact : "I connect ESP32 sensors to the web — bridging hardware & software! 🤖"
+  name      : "Dodhy Kurniawan",
+  role      : "Software Engineer | DevOps Enthusiast",
+  location  : "Indonesia 🇮🇩",
+  focus     : ["Fullstack Web Dev", "Server Deployment & Infra", "IoT Integration"],
+  toolbox   : ["Docker", "Linux", "Nginx", "DigitalOcean VPS", "Git"],
+  learning  : ["CI/CD Pipelines", "Kubernetes", "Infrastructure as Code"],
+  contact   : "dodhykurniawan22@gmail.com",
+  funFact   : "I containerize & deploy my own apps on a VPS, and connect ESP32 sensors to the web 🤖"
 };
 ```
 
@@ -57,16 +58,34 @@ const dodhy = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ### IoT & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![AntiGravity IDE](https://img.shields.io/badge/AntiGravity%20IDE-000000?style=for-the-badge)
+
+</div>
+
+---
+
+## Currently Learning 🌱
+
+<div align="center">
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 </div>
 
@@ -79,7 +98,7 @@ const dodhy = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DodhyKss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=63b3ed&icon_color=48bb78&text_color=a0aec0" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DodhyKss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=63b3ed&text_color=a0aec0" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=DodhyKss&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=63b3ed&ring=9f7aea&fire=f687b3&currStreakLabel=63b3ed" /> 
+<img width="70%" src="https://streak-stats.demolab.com?user=DodhyKss&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=63b3ed&ring=9f7aea&fire=f687b3&currStreakLabel=63b3ed" />
 
 </div>
 
