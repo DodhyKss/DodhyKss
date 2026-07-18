@@ -1,63 +1,73 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/DodhyKss" width="120" style="border-radius:50%;" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dodhy%20Kurniawan.%20Ss&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=20" />
 
-# Dodhy Kurniawan
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=63B3ED&center=true&vCenter=true&width=600&lines=Building+web+apps+from+backend+to+frontend;Deploying+with+Docker+%26+Nginx;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</a>
 
-**Software Engineer**
+<br/><br/>
 
-📍 Indonesia &nbsp;•&nbsp; 💼 Open to Work &nbsp;•&nbsp; ✉️ [dodhykurniawan22@gmail.com](mailto:dodhykurniawan22@gmail.com)
+<a href="https://www.linkedin.com/in/dodhy-kurniawan-ss-1bb1a91bb/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:dodhykurniawan22@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dodhy-kurniawan-ss-1bb1a91bb/)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dodhykurniawan22@gmail.com)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=DodhyKss&style=for-the-badge&color=63B3ED&label=Profile+Views" />
 
 </div>
 
 ---
 
-### 👋 About
+## About Me
 
-Software Engineer yang fokus membangun aplikasi web dari backend sampai frontend, dan terbiasa men-deploy sendiri hasil kerjanya ke server (VPS) dengan Docker & Nginx. Juga aktif eksplorasi proyek IoT dengan Arduino/ESP32.
-
----
-
-### 🛠️ Skills
-
-**Languages**
-`JavaScript` `PHP` `Go`
-
-**Frontend**
-`Next.js` `Tailwind CSS` `Bootstrap` `jQuery`
-
-**Backend**
-`Laravel`
-
-**Database**
-`MySQL` `PostgreSQL`
-
-**Infra & Tools**
-`Docker` `Linux` `Nginx` `Git` `DigitalOcean`
-
-**IoT**
-`Arduino` `ESP32`
+```js
+const dodhy = {
+  role      : "Software Engineer",
+  focus     : "Fullstack Web Development",
+  builds    : "Deploys own apps to self-managed VPS",
+  sideQuest : "Connects ESP32 sensors to the web",
+  status    : "Open to Work"
+};
+```
 
 ---
 
-### 🌱 Currently Learning
-
-CI/CD (GitHub Actions) · Kubernetes · Terraform · Ansible
-
----
-
-### 📊 GitHub Stats
+## Tech Stack
 
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DodhyKss&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DodhyKss&layout=compact&theme=default&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=js,php,go,nextjs,tailwind,bootstrap,jquery,laravel,mysql,postgres,docker,linux,nginx,git&perline=7" />
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+
+
+<img width="70%" src="https://streak-stats.demolab.com?user=DodhyKss&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=63b3ed&ring=9f7aea&fire=f687b3" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DodhyKss&bg_color=0d1117&color=63b3ed&line=9f7aea&point=f687b3&area=true&hide_border=true" />
+
 </div>
 
 ---
 
 <div align="center">
-<sub>Thanks for visiting my profile! 🚀</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<sub>Made with ☕ by <strong>@DodhyKss</strong> — always building, always learning.</sub>
+
 </div>
+
+---
