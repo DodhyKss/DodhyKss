@@ -30,8 +30,6 @@
 const dodhy = {
   role      : "Software Engineer",
   focus     : "Fullstack Web Development",
-  builds    : "Deploys own apps to self-managed VPS",
-  sideQuest : "Connects ESP32 sensors to the web",
   status    : "Open to Work"
 };
 ```
