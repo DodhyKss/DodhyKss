@@ -38,16 +38,6 @@ const dodhy = {
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,php,go,nextjs,tailwind,bootstrap,jquery,laravel,mysql,postgres,docker,linux,nginx,git&perline=7" />
-
-</div>
-
----
-
 ## GitHub Activity
 
 <div align="center">
