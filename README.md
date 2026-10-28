@@ -15,8 +15,6 @@
 ---
 
 
-## GitHub Activity
-
 <div align="center">
 
 
