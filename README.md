@@ -3,18 +3,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dodhy%20Kurniawan.%20Ss&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=20" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=63B3ED&center=true&vCenter=true&width=600&lines=Building+web+apps+from+backend+to+frontend;Deploying+with+Docker+%26+Nginx;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=63B3ED&center=true&vCenter=true&width=600&lines=Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/dodhy-kurniawan-ss-1bb1a91bb/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:dodhykurniawan22@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge" />
 
 <br/><br/>
 
