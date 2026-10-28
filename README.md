@@ -24,17 +24,6 @@
 
 ---
 
-## About Me
-
-```js
-const dodhy = {
-  role      : "Software Engineer",
-  focus     : "Fullstack Web Development",
-  status    : "Open to Work"
-};
-```
-
----
 
 ## GitHub Activity
 
